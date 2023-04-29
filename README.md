@@ -2,6 +2,7 @@
 MSDS 696 - Practicum 2 project (Spring 2023)
 
 [Video Presentation: Singing Voice Detection for Audio Classification](https://drive.google.com/file/d/10fJ62fQ-F5ZrOLldd-1-a9RKtN7jk61_/view?usp=sharing)
+
 [Presentation slides (PDF)](https://drive.google.com/file/d/10EKdY89VFAiH3OTIuP6kRFFP0J_ZE23D/view?usp=sharing)
 
 ## Background
